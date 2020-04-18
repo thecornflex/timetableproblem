@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\felix\source\repos\timetableproblem\timetableproblem\</FILEPATH>
+      <FILENAME>Class.h</FILENAME>
+      <LINE>13</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>Die Funktion verwendet "31224" Bytes vom Stapel und überschreitet /analyze:stacksize "16384". Verschieben Sie einige Daten auf den Heap.</DESCRIPTION>
+    <FUNCTION>Class::CreateTimeTable</FUNCTION>
+    <DECORATED>?CreateTimeTable@Class@@QAEXXZ</DECORATED>
+    <FUNCLINE>13</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\felix\source\repos\timetableproblem\timetableproblem\</FILEPATH>
+      <FILENAME>Class.cpp</FILENAME>
+      <LINE>10</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>Die Funktion verwendet "27976" Bytes vom Stapel und überschreitet /analyze:stacksize "16384". Verschieben Sie einige Daten auf den Heap.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>10</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

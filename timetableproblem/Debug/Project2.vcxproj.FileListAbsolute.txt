@@ -1,0 +1,4 @@
+C:\Users\felix\source\repos\Project2\Debug\Project2.exe
+C:\Users\felix\source\repos\Project2\Debug\Project2.pdb
+C:\Users\felix\source\repos\timetableproblem\timetableproblem\Debug\Project2.exe
+C:\Users\felix\source\repos\timetableproblem\timetableproblem\Debug\Project2.pdb
