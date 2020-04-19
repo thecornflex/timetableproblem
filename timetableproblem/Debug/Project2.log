@@ -1,3 +1,5 @@
-﻿  Class.cpp
-C:\Users\felix\source\repos\timetableproblem\timetableproblem\Class.h(144,62): warning C4834: Der Rückgabewert einer Funktion mit dem "nodiscard"-Attribut wird verworfen.
-  Project2.vcxproj -> C:\Users\felix\source\repos\timetableproblem\timetableproblem\Debug\Project2.exe
+﻿  CallCSV.cpp
+  Class.cpp
+C:\Users\felix\source\repos\timetableproblemGitHub\timetableproblem\Class.h(145,61): warning C4834: Der Rückgabewert einer Funktion mit dem "nodiscard"-Attribut wird verworfen.
+  Code wird generiert...
+  Project2.vcxproj -> C:\Users\felix\source\repos\timetableproblemGitHub\timetableproblem\Debug\Project2.exe
